@@ -2,13 +2,14 @@
   {
     "category": "தமிழ் முதன்மைத் தாள்_தாள் 2",
     "quizzes": [
-      { "file": "Tamil_TRB_1.json", "title": "பயிற்சி 1" },
-      { "file": "Tamil_TRB_2.json", "title": "பயிற்சி 2" },
-      { "file": "Tamil_TRB_3.json", "title": "பயிற்சி 3" },
-      { "file": "Tamil_TRB_5.json", "title": "பயிற்சி 4" }
+      { "file": "Tamil_TRB_Test_1.json", "title": "பயிற்சி 1" },
+      { "file": "Tamil_TRB_Test_2.json", "title": "பயிற்சி 2" },
+      { "file": "Tamil_TRB_Test_3.json", "title": "பயிற்சி 3" },
+      { "file": "Tamil_TRB_Test_5.json", "title": "பயிற்சி 4" }
     ]
   }
 ]
+
 
 
 
