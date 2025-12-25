@@ -11,11 +11,12 @@
   {
     "category": "UGC-NET-தமிழ் முதன்மைத் தாள்",
     "quizzes": [
-      { "file": "UGC_NET_Dec 2005_Tamil_II.json", "title": "UGC-NET-டிசம்பர்2005-தமிழ் தாள்-II" },
-      { "file": "Tamil_TRB_Test_2.json", "title": "பயிற்சி 2" }
+      { "file": "UGC_NET_Dec 2005_Tamil_II.json", "title": "UGC-NET-டிசம்பர் 2005-தமிழ் தாள்-II" },
+      { "file": "UGC_NET_Jun 2025_Tamil_II.json", "title": "UGC-NET-சூன் 2025-தமிழ் தாள்-II" }
     ]
   }
 ]
+
 
 
 
